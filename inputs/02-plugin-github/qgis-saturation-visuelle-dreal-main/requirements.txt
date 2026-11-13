@@ -1,6 +1,0 @@
-# Dépendances externes au socle QGIS/Python déjà fourni par l'application.
-# QGIS embarque déjà qgis.core, qgis.PyQt, etc. — ne pas les lister ici.
-#
-# Nécessaires uniquement pour la génération des figures (figures.py) :
-matplotlib>=3.5
-numpy>=1.21
